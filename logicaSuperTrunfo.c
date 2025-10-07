@@ -117,5 +117,8 @@ int main() {
     } else {
         printf("Empate! Ambas as cidades venceram em %d atributos.\n", pontos_cidade1);
     }
+    
 
     return 0;
+    }
+
